@@ -6,7 +6,7 @@
           <div class="org-label">
             <div class="org-label-inner">
               <div class="label-content">
-                <div class="label-title">百传</div>
+                <div class="label-title">xx</div>
                 <div class="intro">
                   <span>某某某</span>
                   <span>成员</span>
@@ -22,7 +22,7 @@
               <div class="org-label">
                 <div class="org-label-inner">
                   <div class="label-content">
-                    <p class="label-title">百传</p>
+                    <p class="label-title">xx</p>
                     <div class="intro">
                       <span>某某某</span>
                       <span>成员</span>
@@ -37,7 +37,7 @@
                   <div class="org-label">
                     <div class="org-label-inner">
                       <div class="label-content">
-                        <p class="label-title">百传</p>
+                        <p class="label-title">xx</p>
                         <div class="intro">
                           <span>某某某</span>
                           <span>成员</span>
@@ -52,7 +52,7 @@
               <div class="org-label">
                 <div class="org-label-inner">
                   <div class="label-content">
-                    <p class="label-title">百传</p>
+                    <p class="label-title">xx</p>
                     <div class="intro">
                       <span>某某某</span>
                       <span>成员</span>

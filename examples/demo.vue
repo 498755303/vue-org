@@ -28,7 +28,7 @@ export default {
       demoData: {
         id: 1,
         label: "1",
-        companyName: "百传中云信息科技有限公司",
+        companyName: "xx科技有限公司",
         userName: "某某",
         expand: true,
         children: [
